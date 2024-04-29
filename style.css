@@ -1,0 +1,15 @@
+.c-item {
+  height: 500px;
+}
+
+.c-img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  filter: brightness(0.6);
+}
+
+.overview{
+    height: 180px;
+    background: #d3dae1;
+}
